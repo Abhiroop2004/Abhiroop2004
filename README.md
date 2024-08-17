@@ -1,4 +1,5 @@
 - 🙋🏻‍♂️ Hi, I’m Abhiroop Sarkar
-- 👀 I’m interested in **Cryptography🔐**
-- 🌱 I’m currently learning **Python, Cryptography, Machine Learning**
-- 📫 How to reach me **abhiroopsarkar2004@gmail.com**
+- 👀 I’m interested in **Cryptography🔐 and Theoretical CS**
+- - 🐱‍👤Obsessed with Daredevil and ⚡
+- 🌱Currently a B.Tech student
+- 📫 How to reach me? **abhiroopsarkar2004@gmail.com**
