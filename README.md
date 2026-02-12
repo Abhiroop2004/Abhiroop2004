@@ -4,4 +4,4 @@
 - 🌱Currently a B.Tech student
 - 📫 How to reach me? **abhiroopsarkar2004@gmail.com**
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiroop2004&" alt="Abhiroop2004" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiroop2004&" alt="Abhiroop2004" /></p>
